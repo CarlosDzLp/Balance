@@ -1,20 +1,57 @@
-﻿<Properties StartupConfiguration="{50A194D5-D71C-4BCF-8155-F189132EE77C}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{99B8C0B2-5096-4424-9EA9-B6EA5AE186D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Balance.iOS/Main.cs">
+    <Files>
+      <File FileName="Balance.iOS/Controls/TransitionNavigationPageRenderer.cs" Line="1" Column="1" />
+      <File FileName="Balance.iOS/Controls/BadgedTabbedPageRenderer.cs" Line="39" Column="26" />
+      <File FileName="Balance.iOS/Properties/AssemblyInfo.cs" Line="26" Column="44" />
+      <File FileName="Balance/ViewModels/Principal/iOS/TabPageIOSViewModel.cs" Line="20" Column="1" />
+      <File FileName="Balance/Service/TokenAuthenticate.cs" Line="32" Column="1" />
+      <File FileName="Balance/ViewModels/Session/LoginPageViewModel.cs" Line="55" Column="61" />
+      <File FileName="Balance/Views/Principal/iOS/TabPageIOS.xaml" Line="18" Column="27" />
+      <File FileName="Balance/Views/Principal/iOS/TabPageIOS.xaml.cs" Line="13" Column="47" />
+      <File FileName="Balance.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Balance" expanded="True" />
+          <Node name="Balance" expanded="True">
+            <Node name="Balance" expanded="True">
+              <Node name="Service" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Principal" expanded="True">
+                  <Node name="iOS" expanded="True" />
+                </Node>
+                <Node name="Session" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Principal" expanded="True">
+                  <Node name="iOS" expanded="True">
+                    <Node name="TabPageIOS.xaml" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Balance.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Balance.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.Balance.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.pruebas" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Balance.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Balance.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.3475b01f6aac65f03294318bf69b786f7295eed9" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/CarlosDiaz/Balance/Balance/Balance/Service/TokenAuthenticate.cs" relfile="Balance/Service/TokenAuthenticate.cs" line="39" column="1" />
+      <Breakpoint file="/Users/CarlosDiaz/Balance/Balance/Balance/Service/TokenAuthenticate.cs" relfile="Balance/Service/TokenAuthenticate.cs" line="32" column="1" />
+      <Breakpoint file="/Users/CarlosDiaz/Balance/Balance/Balance/Service/TokenAuthenticate.cs" relfile="Balance/Service/TokenAuthenticate.cs" line="34" column="1" />
+      <Breakpoint file="/Users/CarlosDiaz/Balance/Balance/Balance/ViewModels/Principal/iOS/TabPageIOSViewModel.cs" relfile="Balance/ViewModels/Principal/iOS/TabPageIOSViewModel.cs" line="10" column="1" />
+      <Breakpoint file="/Users/CarlosDiaz/Balance/Balance/Balance/Views/Principal/iOS/TabPageIOS.xaml.cs" relfile="Balance/Views/Principal/iOS/TabPageIOS.xaml.cs" line="11" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Balance FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="Balance.Views.Session.LoginPage"
+    xmlns:controls="clr-namespace:Balance.Controls;assembly=Balance"
+    BackgroundColor="White"
+    Title="{Binding TitlePage}">
+    <ContentPage.Content>
+        <controls:KeyboardView
+            VerticalOptions="FillAndExpand">
+            <StackLayout
+                BackgroundColor="White"
+                VerticalOptions="Center"
+                Padding="30">
+                <controls:CustomFrame
+                    HasShadow="true"
+                    CornerRadius="8"
+                    BackgroundColor="#EDEDED"
+                    Elevation="30.0"
+                    Padding="20,30">
+                    <StackLayout
+                        Spacing="15">
+                        <Image
+                            Source="user.png"
+                            WidthRequest="80"
+                            HeightRequest="80"/>
+                        <controls:CustomFrame
+                            Padding="15,10"
+                            BackgroundColor="White">
+                            <controls:CustomEntry
+                                Placeholder="Correo"
+                                Text="{Binding Email}"
+                                TextColor="Black"
+                                PlaceholderColor="Gray"
+                                ReturnType="Done"/>
+                        </controls:CustomFrame> 
+                        <controls:CustomFrame
+                            Padding="15,10"
+                            BackgroundColor="White">
+                            <controls:CustomEntry
+                                Text="{Binding Password}"
+                                TextColor="Black"
+                                Placeholder="Contraseña"
+                                PlaceholderColor="Gray"
+                                IsPassword="true"
+                                ReturnType="Done"/>
+                        </controls:CustomFrame>
+                        <Button
+                            BackgroundColor="#FF9500"
+                            Text="Iniciar Sesion"
+                            TextColor="White"
+                            Command="{Binding LogInCommand}"/>
+                        <Label
+                            Text="Crear Cuenta"
+                            TextColor="#FF9500"
+                            TextDecorations="Underline"
+                            VerticalTextAlignment="Center"
+                            HorizontalTextAlignment="Center">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Command="{Binding TapCreateAcountCommand}"
+                                    NumberOfTapsRequired="1" />
+                            </Label.GestureRecognizers>
+                        </Label>
+                    </StackLayout>
+                </controls:CustomFrame>
+            </StackLayout>   
+        </controls:KeyboardView>
+    </ContentPage.Content>
+</ContentPage>

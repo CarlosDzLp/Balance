@@ -48,7 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="3.2.0.871581" />
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.8055-pre1" />
     <PackageReference Include="Xamarin.Android.Support.Design" Version="27.0.2.1" />
     <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="27.0.2.1" />
     <PackageReference Include="Xamarin.Android.Support.v4" Version="27.0.2.1" />
@@ -59,6 +59,15 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controls\CustomEntryRenderer.cs" />
+    <Compile Include="Controls\CustomFrameRenderer.cs" />
+    <Compile Include="Controls\BadgeView.cs" />
+    <Compile Include="Controls\BadgeViewExtensions.cs" />
+    <Compile Include="Controls\BadgedTabbedPageRenderer.cs" />
+    <Compile Include="Controls\LegacyBadgedTabbedRenderer.cs" />
+    <Compile Include="Controls\ExtendedEditorRenderer.cs" />
+    <Compile Include="Controls\CircleViewRenderer.cs" />
+    <Compile Include="Controls\ImageCircleRenderer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -89,6 +98,7 @@
     <Folder Include="Resources\drawable-xhdpi\" />
     <Folder Include="Resources\drawable-xxhdpi\" />
     <Folder Include="Resources\drawable-xxxhdpi\" />
+    <Folder Include="Controls\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Balance\Balance.csproj">

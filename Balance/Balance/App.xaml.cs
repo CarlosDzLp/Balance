@@ -10,8 +10,15 @@ namespace Balance
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            MainPage = GetNavigationPage(new Views.Session.LoginPage());
+        }
+        public static Page GetNavigationPage(Page page)
+        {
+            var navigation = new NavigationPage(page);
+            navigation.BarBackgroundColor = Color.FromHex("#FF9500");
+            navigation.BarTextColor = Color.White;
+            navigation.Title = "atras";
+            return navigation; 
         }
 
         protected override void OnStart()

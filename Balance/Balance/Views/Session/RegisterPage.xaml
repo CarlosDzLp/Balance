@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="Balance.Views.Session.RegisterPage"
+    xmlns:controls="clr-namespace:Balance.Controls;assembly=Balance"
+    BackgroundColor="#EDEDED"
+    Title="{Binding TitlePage}">
+    <ContentPage.Content>
+        <controls:KeyboardView
+            VerticalOptions="FillAndExpand">           
+                <StackLayout
+                    BackgroundColor="#EDEDED"
+                    Padding="30">
+                    <ScrollView>
+                        <StackLayout>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame>
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Placeholder="Correo"
+                                    Text="{Binding Email}"
+                                    TextColor="Black"
+                                    PlaceholderColor="Gray"
+                                    ReturnType="Done"/>            
+                            </controls:CustomFrame> 
+                            <controls:CustomFrame
+                                Padding="15,10"
+                                BackgroundColor="White">
+                                <controls:CustomEntry
+                                    Text="{Binding Password}"
+                                    TextColor="Black"
+                                    Placeholder="Contraseña"
+                                    PlaceholderColor="Gray"
+                                    IsPassword="true"
+                                    ReturnType="Done"/>
+                            </controls:CustomFrame> 
+                        </StackLayout>
+                    </ScrollView>
+                    <StackLayout
+                        VerticalOptions="EndAndExpand">
+                        <Button
+                            BackgroundColor="#FF9500"
+                            Text="Crear Cuenta"
+                            TextColor="White"
+                            Command="{Binding LogInCommand}"/>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Button
+                                Grid.Row="0"
+                                Grid.Column="0"
+                                HorizontalOptions="FillAndExpand"
+                                BackgroundColor="#4267B2"
+                                Text="Facebook"
+                                TextColor="White"
+                                Command="{Binding LogInCommand}"/>
+                            <Button
+                                Grid.Row="0"
+                                Grid.Column="1"
+                                HorizontalOptions="FillAndExpand"
+                                BackgroundColor="#DE4F42"
+                                Text="Google"
+                                TextColor="White"
+                                Command="{Binding LogInCommand}"/>
+                        </Grid>
+                    </StackLayout>                   
+                </StackLayout>              
+        </controls:KeyboardView>
+    </ContentPage.Content>
+</ContentPage>

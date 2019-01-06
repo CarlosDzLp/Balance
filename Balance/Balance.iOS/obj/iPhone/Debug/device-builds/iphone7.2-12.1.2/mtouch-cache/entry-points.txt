@@ -1,0 +1,411 @@
+Function=xamarin_timezone_get_data
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_start_wwan
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardScheme
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultMinTextFieldWidth
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultContentEdgeInsets
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipField
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorTransition
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertAction
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBar
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarContainerViewController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarNavigationController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarTextColorAccessibilityMutator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarViewController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBaseCell
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicColorScheme
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicFontScheme
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBar
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetPresentationController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetTransitionController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButton
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBar
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarButton
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonScheme
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTitleColorAccessibilityMutator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCard
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardCollectionCell
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewCell
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewFlowLayout
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewFontThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewScheme
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kDeselectedCellAccessibilityHintKey
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kSelectedCellAccessibilityHintKey
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCollectionViewCellStyleCardSectionInset
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewCell
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewFlowLayout
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewLayoutAttributes
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineHeight
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineWithAvatarHeight
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultThreeLineHeight
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultTwoLineHeight
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewTextCell
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCornerTreatment
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedCornerTreatment
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedRectShapeGenerator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCutCornerTreatment
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogPresentationController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogTransitionController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCEdgeTreatment
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightAccessibilityMutator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightFontThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kMDCFeatureHighlightOuterHighlightAlpha
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightViewController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFilledTextFieldColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlatButton
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderContainerViewController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderViewController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingActionButtonThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButton
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackViewColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIcons
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkGestureRecognizer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkTouchController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIntrinsicHeightTextView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillChangeFrameNotification
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillHideNotification
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillShowNotification
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCKeyboardWatcher
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCLibraryInfo
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMaskedTransitionController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMultilineTextField
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBar
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTextColorAccessibilityMutator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNumericValueLabel
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedTextFieldColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayObserver
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayWindow
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControl
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControlColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent100Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent200Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent400Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent700Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint100Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint200Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint300Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint400Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint500Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint50Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint600Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint700Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint800Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint900Name
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPalette
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPathGenerator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPillShapeGenerator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressViewColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRaisedButton
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRectangleShapeGenerator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRoundedCornerTreatment
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSemanticColorScheme
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowLayer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowMetrics
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedShadowLayer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlantedRectShapeGenerator
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlider
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSliderColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarFontThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarManager
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageBoldAttributeName
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageDurationMax
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessage
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageAction
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSystemFontLoader
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBar
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarFontThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarIndicatorAttributes
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarUnderlineIndicatorTemplate
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTabBarViewControllerAnimationDuration
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarViewController
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextFieldTextDidSetTextNotification
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputDidToggleEnabledNotification
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextField
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldColorThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldFontThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldTypographyThemer
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputAllCharactersCounter
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputBorderView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputControllerBaseDefaultBorderRadius
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerBase
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFilled
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFullWidth
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyDefault
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyFullWidth
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlined
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlinedTextArea
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerUnderline
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputUnderlineView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbTrack
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbView
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalColorScheme
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalPalette
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTriangleEdgeTreatment
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypography
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypographyScheme
+	/Users/CarlosDiaz/Balance/Balance/Balance.iOS/obj/iPhone/Debug/device-builds/iphone7.2-12.1.2/mtouch-cache/1-Link/MaterialComponents.dll
+Function=mono_pmip

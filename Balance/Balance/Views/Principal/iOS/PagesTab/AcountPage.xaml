@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="Balance.Views.Principal.iOS.PagesTab.AcountPage"
+    BackgroundColor="White"
+    Icon="menu.png"
+    Title="Cuenta" TabIndex="3">
+    <ContentPage.Content>
+        <ScrollView
+            VerticalScrollBarVisibility="Never">
+            <StackLayout>
+                <StackLayout
+                    BackgroundColor="Gray"
+                    HeightRequest="80">
+                    
+                </StackLayout>
+                <StackLayout
+                    Padding="10,0">
+                    <BoxView
+                        HeightRequest="1"
+                        Color="Black"
+                        Opacity=".4"/>
+                </StackLayout>
+                <StackLayout
+                    HeightRequest="600"
+                    BackgroundColor="Blue">
+                    
+                </StackLayout>
+                <StackLayout
+                    Margin="0,-6">
+                    <StackLayout
+                        BackgroundColor="#EDEDED"
+                        Padding="20,15">
+                        <Label
+                            Text="ayuda y soporte tecnico"/>
+                    </StackLayout>
+
+                        <BoxView
+                            Margin="0,-6,0,-6"
+                            HeightRequest="1"
+                            Color="Black"/>
+
+                    <StackLayout
+                        BackgroundColor="#EDEDED"
+                        Padding="20,15">
+                        <Label
+                            Text="Cerrar Sesion"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

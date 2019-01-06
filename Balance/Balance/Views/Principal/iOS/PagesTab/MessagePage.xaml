@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="Balance.Views.Principal.iOS.PagesTab.MessagePage"
+    xmlns:controls="clr-namespace:Balance.Controls;assembly=Balance"
+    xmlns:views="clr-namespace:Balance.Views.Templates;assembly=Balance"
+    xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core" 
+    ios:Page.UseSafeArea="true"
+    BackgroundColor="White"
+    Icon="message.png"
+    Title="Mensajes" TabIndex="2">
+    <ContentPage.Content>
+        <controls:CustomListView
+            x:Name="list"
+            ios:ListView.SeparatorStyle="FullWidth"
+            VerticalOptions="FillAndExpand"
+            HorizontalOptions="FillAndExpand"
+            VerticalScrollBarVisibility="Never"
+            ItemSelectedCommand="{Binding ItemClickCommand}"
+            BackgroundColor="White"
+            IsPullToRefreshEnabled="true"
+            RefreshCommand="{Binding IsBusyCommand}"
+            IsRefreshing="{Binding IsBusy}"
+            SelectionMode="Single"
+            HasUnevenRows="true"
+            Footer=""
+            ItemsSource="{Binding ListPlanes}">
+            <controls:CustomListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame
+                            HasShadow="false"
+                            Margin="0"
+                            BackgroundColor="White"
+                            Padding="10,10"
+                            CornerRadius="0">
+                            <StackLayout>
+                                <Grid  
+                                    RowSpacing="0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>   
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+                                    <StackLayout
+                                        Grid.Column="0"
+                                        Grid.Row="0"
+                                        Grid.RowSpan="2">
+                                        <StackLayout 
+                                            Padding="0,0,0,0" 
+                                            HorizontalOptions="CenterAndExpand" 
+                                            VerticalOptions="CenterAndExpand">
+                                            <controls:CircleImage
+                                                Aspect="AspectFill"
+                                                HeightRequest="50"
+                                                WidthRequest="50"
+                                                Source="user.png" 
+                                                HorizontalOptions="CenterAndExpand"/>
+                                        </StackLayout>
+                                    </StackLayout>
+                                    <StackLayout
+                                        Grid.Column="1"
+                                        Grid.Row="0">
+                                        <Label 
+                                            Text="titulo del mensaje"/>
+                                    </StackLayout>
+                                    <StackLayout
+                                        VerticalOptions="Center"
+                                        HorizontalOptions="CenterAndExpand"
+                                        Grid.Column="2"
+                                        Grid.Row="0"
+                                        Grid.RowSpan="2"
+                                        Padding="0,0,0,0">
+                                        <Image 
+                                            HorizontalOptions="CenterAndExpand" 
+                                            HeightRequest="20" 
+                                            Source="arrow.png"/>
+                                    </StackLayout>
+                                    <StackLayout
+                                        Padding="0"
+                                        VerticalOptions="Center"
+                                        Grid.Column="1"
+                                        Grid.Row="1">
+                                        <Grid>
+                                            <Label Text="dasdsaddsadsdsadsadsadsadasdsadasdasdsadsadsadasdsadsdasdsadasdsadsadasdasdsadasdasdsad"
+                                               MaxLines="2"
+                                               FontSize="Small"/>
+                                            <views:BadgeView  
+                                                Text="3" 
+                                                BadgeColor="Red" 
+                                                VerticalOptions="Start" 
+                                                HorizontalOptions="End"/>
+                                        </Grid>                          
+                                    </StackLayout>
+                                </Grid>           
+                            </StackLayout>
+                        </Frame>
+                    </ViewCell>
+                </DataTemplate>
+            </controls:CustomListView.ItemTemplate>
+        </controls:CustomListView>
+    </ContentPage.Content>
+</ContentPage>
