@@ -1,9 +1,9 @@
 ﻿using System;
 namespace Balance.iOS.Controls
 {
-    public class InvalidRendererException
+    public class InvalidRendererException : Exception
     {
-        public InvalidRendererException()
+        public InvalidRendererException(string message) : base(message)
         {
         }
     }

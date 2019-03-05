@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
-using MaterialComponents;
 using UIKit;
 
 namespace Balance.iOS
@@ -25,14 +24,8 @@ namespace Balance.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
-            UITabBar.Appearance.SelectedImageTintColor = UIColor.Black;
-            UITabBar.Appearance.TintColor = UIColor.Black;
+
             return base.FinishedLaunching(app, options);
         }
-        //public override bool OpenUrl(UIApplication app, NSUrl url, NSDictionary options)
-        //{
-          //  base.OpenUrl(app, url, options);
-            //return GoogleClientManager.OnOpenUrl(app, url, options);
-       // }
     }
 }

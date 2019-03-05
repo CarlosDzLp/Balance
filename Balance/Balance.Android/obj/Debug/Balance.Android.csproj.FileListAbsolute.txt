@@ -1,9 +1,7 @@
-/Users/CarlosDiaz/.nuget/packages/xamarin.forms/3.2.0.871581/lib/MonoAndroid10/FormsViewGroup.dll
-/Users/CarlosDiaz/.nuget/packages/xamarin.forms/3.2.0.871581/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Balance.Android.dll
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Balance.Android.pdb
-/Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/com.ecodiaz.Balance.apk
-/Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/com.ecodiaz.Balance-Signed.apk
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/com.ecocadiz.balance.apk
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/com.ecocadiz.balance-Signed.apk
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Balance.dll
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Balance.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/Balance.Android.nuget.stamp
@@ -16,7 +14,7 @@
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/Balance.Android.csproj.CopyComplete
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/Balance.Android.dll
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/Balance.Android.pdb
-/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/android/bin/com.ecodiaz.Balance.apk
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/android/bin/com.ecocadiz.balance.apk
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/layout/tabbar.xml
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/layout/toolbar.xml
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/values/styles.xml
@@ -36,9 +34,16 @@
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/R.cs.flag
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/R.txt
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/uploadflags.txt
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/drawable/facebook.png
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/drawable/googleplus.png
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/drawable/outlook.png
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/drawable/home.png
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/drawable/placeholder.png
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/drawable/search.png
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/drawable/user.png
+/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/res/drawable/userlogin.png
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/FormsViewGroup.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Mono.Android.pdb
-/Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Newtonsoft.Json.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
@@ -46,7 +51,6 @@
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/linksrc/Balance.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/linksrc/FormsViewGroup.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/linksrc/Mono.Android.pdb
-/Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/linksrc/Newtonsoft.Json.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.pdb
 /Users/CarlosDiaz/Balance/Balance/Balance.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb

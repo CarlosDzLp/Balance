@@ -1,5 +1,69 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Balance.Views.Principal.MenuPage">
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="Balance.Views.Principal.MenuPage"
+    BackgroundColor="White"
+    xmlns:controls="clr-namespace:Balance.Controls;assembly=Balance"
+    xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core" 
+    ios:Page.UseSafeArea="true"
+    Title="Menu"
+    Icon="menu">
     <ContentPage.Content>
+        <StackLayout>
+            <StackLayout
+                HeightRequest="200"
+                BackgroundColor="White">
+                
+            </StackLayout>
+            <StackLayout
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand">
+                <ListView
+                    ios:ListView.SeparatorStyle="FullWidth"
+                    ItemsSource="{Binding ListMenu}"
+                    HasUnevenRows="true"
+                    Footer="">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <controls:CutomViewCell
+                                SelectedViewCell="#E91E63">
+                                <Grid
+                                    Padding="5">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <StackLayout
+                                        Padding="30,0,10,0"
+                                        Grid.Row="0"
+                                        Grid.Column="0"
+                                        VerticalOptions="Center"
+                                        HorizontalOptions="Center">
+                                        <Image
+                                            VerticalOptions="Center"
+                                            HorizontalOptions="Center"
+                                            HeightRequest="35"
+                                            WidthRequest="35"
+                                            Source="{Binding Icon}"/>
+                                    </StackLayout>
+                                    <StackLayout
+                                        Padding="10,0"
+                                        Grid.Row="0"
+                                        Grid.Column="1"
+                                        VerticalOptions="Center"
+                                        HorizontalOptions="Start">
+                                        <Label
+                                            VerticalTextAlignment="Center"
+                                            TextColor="Black"
+                                            Text="{Binding Title}"/>
+                                    </StackLayout>
+                                </Grid>
+                            </controls:CutomViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

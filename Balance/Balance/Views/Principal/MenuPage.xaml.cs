@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using Balance.ViewModels.Principal;
 using Xamarin.Forms;
 
 namespace Balance.Views.Principal
@@ -10,6 +10,7 @@ namespace Balance.Views.Principal
         public MenuPage()
         {
             InitializeComponent();
+            this.BindingContext = new MenuPageViewModel();
         }
     }
 }

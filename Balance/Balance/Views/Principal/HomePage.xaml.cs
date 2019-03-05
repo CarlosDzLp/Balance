@@ -11,5 +11,6 @@ namespace Balance.Views.Principal
         {
             InitializeComponent();
         }
+
     }
 }

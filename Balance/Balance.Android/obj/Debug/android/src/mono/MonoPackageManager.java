@@ -109,7 +109,6 @@ class MonoPackageManager_Resources {
 		"Balance.Android.dll",
 		"Balance.dll",
 		"FormsViewGroup.dll",
-		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",

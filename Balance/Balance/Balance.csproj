@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <ProduceAssemblyReference>true</ProduceAssemblyReference>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -11,36 +10,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.0.0.8055-pre1" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controls\" />
     <Folder Include="Views\" />
-    <Folder Include="Resource\" />
+    <Folder Include="Views\Session\" />
+    <Folder Include="Controls\" />
+    <Folder Include="Views\Principal\" />
     <Folder Include="ViewModels\" />
     <Folder Include="ViewModels\Session\" />
-    <Folder Include="ViewModels\Base\" />
-    <Folder Include="Views\Principal\" />
-    <Folder Include="Views\Session\" />
-    <Folder Include="Views\Principal\Android\" />
-    <Folder Include="Views\Principal\iOS\" />
-    <Folder Include="Views\Principal\iOS\PagesTab\" />
-    <Folder Include="ViewModels\Principal\" />
-    <Folder Include="ViewModels\Principal\iOS\" />
-    <Folder Include="Controls\Enums\" />
-    <Folder Include="Views\Templates\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Service\" />
     <Folder Include="Models\" />
-    <Folder Include="Models\ServiceToken\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Remove="Views\LoginPage.cs" />
-    <Compile Remove="Helpers\MessageKeys.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Remove="Views\Session\Android\LoginPageAND.xaml" />
-    <EmbeddedResource Remove="Views\Session\iOS\LoginPageiOS.xaml" />
+    <Folder Include="Models\MenuLateral\" />
+    <Folder Include="ViewModels\Principal\" />
+    <Folder Include="ViewModels\Base\" />
   </ItemGroup>
 </Project>

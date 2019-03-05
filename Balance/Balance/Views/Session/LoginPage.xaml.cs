@@ -10,6 +10,7 @@ namespace Balance.Views.Session
         public LoginPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
             this.BindingContext = new LoginPageViewModel();
         }
     }

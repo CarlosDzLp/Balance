@@ -1,10 +1,32 @@
-﻿using System;
+﻿using Android.Content;
+using Android.Support.V4.Widget;
+using Android.Views;
+using Balance.Droid.Controls;
+using Xamarin.Forms;
+using Xamarin.Forms.Platform.Android.AppCompat;
+
+[assembly: ExportRenderer(typeof(MasterDetailPage), typeof(CustomMasterDetailPageRenderer))]
 namespace Balance.Droid.Controls
 {
-    public class CustomMasterDetailPageRenderer
+    public class CustomMasterDetailPageRenderer : MasterDetailPageRenderer
     {
-        public CustomMasterDetailPageRenderer()
+        public CustomMasterDetailPageRenderer(Context context) : base(context)
         {
+        }
+
+        protected override void OnElementChanged(VisualElement oldElement, VisualElement newElement)
+        {
+            base.OnElementChanged(oldElement, newElement);
+
+            var width = Resources.DisplayMetrics.WidthPixels;
+            var fieldInfo = GetType().BaseType.GetField("_masterLayout", System.Reflection.BindingFlags.Instance | System.Reflection.BindingFlags.NonPublic);
+            var _masterLayout = (ViewGroup)fieldInfo.GetValue(this);
+            var lp = new DrawerLayout.LayoutParams(_masterLayout.LayoutParameters);
+            lp.Width = 220;
+
+            //int widthRatio = (int) (page.DrawerWidth * width);
+            lp.Gravity = (int)GravityFlags.Left;
+            _masterLayout.LayoutParameters = lp;
         }
     }
 }
