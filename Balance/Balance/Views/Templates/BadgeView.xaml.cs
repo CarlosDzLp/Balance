@@ -7,7 +7,6 @@ namespace Balance.Views.Templates
 {
     public partial class BadgeView : Grid
     {
-
         public static BindableProperty TextProperty = BindableProperty.Create("Text", typeof(string), typeof(BadgeView), "0", propertyChanged: (bindable, oldVal, newVal) =>
         {
             var view = (BadgeView)bindable;
