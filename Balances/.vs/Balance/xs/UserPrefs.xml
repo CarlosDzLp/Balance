@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1B2E9FDD-68EB-4415-9D3C-9610ACA32025}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Balance" expanded="True">
+            <Node name="Balance" expanded="True">
+              <Node name="Controls" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Session" expanded="True">
+                  <Node name="LoginPageViewModel.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Principal" expanded="True">
+                  <Node name="HomePage.xaml" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Balance.iOS" expanded="True">
+              <Node name="Controls" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Balance.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.6NU7N18403008952" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Balance.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE153E4A-D18C-424F-8A96-C5CE050A7675" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
